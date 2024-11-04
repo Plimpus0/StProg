@@ -52,12 +52,6 @@ void fizzbuzz(int n){
         }
 
     }
-
-
-
-
-
-    cout << n;
 }
 
 
